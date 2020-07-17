@@ -1,0 +1,13 @@
+C:\DevBuild4\StringPlay\bin\Debug\netcoreapp3.1\StringPlay.exe
+C:\DevBuild4\StringPlay\bin\Debug\netcoreapp3.1\StringPlay.deps.json
+C:\DevBuild4\StringPlay\bin\Debug\netcoreapp3.1\StringPlay.runtimeconfig.json
+C:\DevBuild4\StringPlay\bin\Debug\netcoreapp3.1\StringPlay.runtimeconfig.dev.json
+C:\DevBuild4\StringPlay\bin\Debug\netcoreapp3.1\StringPlay.dll
+C:\DevBuild4\StringPlay\bin\Debug\netcoreapp3.1\StringPlay.pdb
+C:\DevBuild4\StringPlay\obj\Debug\netcoreapp3.1\StringPlay.csprojAssemblyReference.cache
+C:\DevBuild4\StringPlay\obj\Debug\netcoreapp3.1\StringPlay.AssemblyInfoInputs.cache
+C:\DevBuild4\StringPlay\obj\Debug\netcoreapp3.1\StringPlay.AssemblyInfo.cs
+C:\DevBuild4\StringPlay\obj\Debug\netcoreapp3.1\StringPlay.csproj.CoreCompileInputs.cache
+C:\DevBuild4\StringPlay\obj\Debug\netcoreapp3.1\StringPlay.dll
+C:\DevBuild4\StringPlay\obj\Debug\netcoreapp3.1\StringPlay.pdb
+C:\DevBuild4\StringPlay\obj\Debug\netcoreapp3.1\StringPlay.genruntimeconfig.cache
